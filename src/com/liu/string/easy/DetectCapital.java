@@ -1,4 +1,4 @@
-package com.liu.string;
+package com.liu.string.easy;
 
 /**
  * Created by liu on 17-7-7.

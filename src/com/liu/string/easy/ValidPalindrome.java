@@ -1,4 +1,4 @@
-package com.liu.string;
+package com.liu.string.easy;
 
 /**
  * Created by liu on 17-6-29.
@@ -31,5 +31,6 @@ public class ValidPalindrome {
 
     public static void main(String[] args) {
         System.out.println(new ValidPalindrome().isPalindrome("A man, a plan, a canal: Panama"));
+        System.out.println(new ValidPalindrome().isPalindrome("0P"));
     }
 }

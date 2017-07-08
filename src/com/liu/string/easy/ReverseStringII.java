@@ -1,4 +1,4 @@
-package com.liu.string;
+package com.liu.string.easy;
 
 import java.util.Arrays;
 

@@ -2,10 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22bcdc45-b864-49c7-a7fe-679bddaf8f50" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/DetectCapital.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/LongestCommonPrefix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/LongestUncommonSubsequenceI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/ValidParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/AddBinary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/ConstructStringfromBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/CountandSay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/GenerateParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/LengthofLastWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/NumberofSegments.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/RansomNote.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/ReverseString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/ReverseVowels.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/liu/string/ValidParentheses.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/liu/string/DetectCapital.java" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/DetectCapital.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/liu/string/KMP.java" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/KMP.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/liu/string/LongestCommonPrefix.java" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/LongestCommonPrefix.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/liu/string/LongestUncommonSubsequenceI.java" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/LongestUncommonSubsequenceI.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/liu/string/ReverseStringII.java" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/ReverseStringII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/liu/string/ReverseWordsIII.java" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/ReverseWordsIII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/liu/string/StudentAttendanceRecordI.java" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/StudentAttendanceRecordI.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/liu/string/ValidPalindrome.java" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/ValidPalindrome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithm/com/liu/string/ValidPalindrome.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/liu/string/ValidPalindrome.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithm/com/liu/string/ValidParentheses.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/liu/string/ValidParentheses.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Algorithm.iws" />
@@ -27,74 +43,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReverseWordsIII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/string/ReverseWordsIII.java">
+      <file leaf-file-name="CountandSay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/CountandSay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentAttendanceRecordI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/string/StudentAttendanceRecordI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseStringII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/string/ReverseStringII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LongestUncommonSubsequenceI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/string/LongestUncommonSubsequenceI.java">
+        <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/LongestUncommonSubsequenceI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="-8">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberofSegments.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/NumberofSegments.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LongestCommonPrefix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/string/LongestCommonPrefix.java">
+        <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/LongestCommonPrefix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            <state relative-caret-position="-8">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="DetectCapital.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/string/DetectCapital.java">
+        <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/DetectCapital.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="37" column="95" selection-start-line="37" selection-start-column="95" selection-end-line="37" selection-end-column="95" />
+            <state relative-caret-position="-8">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/string/ValidParentheses.java">
+      <file leaf-file-name="LengthofLastWord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/LengthofLastWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepeatedSubstringPattern.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/RepeatedSubstringPattern.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="215">
-              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConstructStringfromBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ConstructStringfromBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenerateParentheses.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/GenerateParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KMP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/KMP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,17 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/liu/LinkedList/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/LinkedList/LinkedListCycle.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/LinkedList/DeleteNode.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/LinkedList/RemoveDuplicatesfromSortedList.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/LinkedList/IntersectionofTwoLinkedLists.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/LinkedList/RemoveLinkedListElements.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/LinkedList/ReverseLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/LinkedList/PalindromeLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/LinkedList/MergeTwoSortedLists.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/LinkedList/easy/ReverseLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/linkedlist/easy/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/liu/linkedlist/medium/RotateList.java" />
         <option value="$PROJECT_DIR$/src/com/liu/linkedlist/medium/SortList.java" />
         <option value="$PROJECT_DIR$/src/com/liu/linkedlist/medium/InsertionSortList.java" />
@@ -161,7 +194,6 @@
         <option value="$PROJECT_DIR$/src/com/liu/array/medium/ClimbingStairs.java" />
         <option value="$PROJECT_DIR$/src/com/liu/array/medium/SingleNumber.java" />
         <option value="$PROJECT_DIR$/src/com/liu/array/medium/SingleNumberII.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/ValidPalindrome.java" />
         <option value="$PROJECT_DIR$/src/com/liu/string/KMP.java" />
         <option value="$PROJECT_DIR$/src/com/liu/string/ReverseWordsIII.java" />
         <option value="$PROJECT_DIR$/src/com/liu/string/StudentAttendanceRecordI.java" />
@@ -170,6 +202,18 @@
         <option value="$PROJECT_DIR$/src/com/liu/string/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/com/liu/string/DetectCapital.java" />
         <option value="$PROJECT_DIR$/src/com/liu/string/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/RepeatedSubstringPattern.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/ConstructStringfromBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/NumberofSegments.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/CountandSay.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/RansomNote.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/ReverseVowels.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/LengthofLastWord.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/AddBinary.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/ValidPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/GenerateParentheses.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/string/easy/NumberofSegments.java" />
       </list>
     </option>
   </component>
@@ -204,7 +248,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -264,20 +307,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="string" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="RunManager" selected="Application.ValidParentheses">
-    <configuration default="false" name="StudentAttendanceRecordI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.RepeatedSubstringPattern">
+    <configuration default="false" name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.liu.string.*" />
+          <option name="PATTERN" value="com.liu.string.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.string.StudentAttendanceRecordI" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.string.easy.ReverseString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -290,14 +360,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ReverseStringII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="LengthofLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.liu.string.*" />
+          <option name="PATTERN" value="com.liu.string.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.string.ReverseStringII" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.string.easy.LengthofLastWord" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -310,14 +380,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.liu.string.*" />
+          <option name="PATTERN" value="com.liu.string.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.string.LongestCommonPrefix" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.string.easy.AddBinary" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -330,14 +400,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="DetectCapital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.liu.string.*" />
+          <option name="PATTERN" value="com.liu.string.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.string.DetectCapital" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.string.easy.ValidPalindrome" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -350,14 +420,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RepeatedSubstringPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.liu.string.*" />
+          <option name="PATTERN" value="com.liu.string.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.string.ValidParentheses" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.string.easy.RepeatedSubstringPattern" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -615,19 +685,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.StudentAttendanceRecordI" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ReverseStringII" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LongestCommonPrefix" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DetectCapital" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ValidParentheses" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ReverseString" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LengthofLastWord" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AddBinary" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ValidPalindrome" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RepeatedSubstringPattern" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ValidParentheses" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DetectCapital" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LongestCommonPrefix" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ReverseStringII" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StudentAttendanceRecordI" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RepeatedSubstringPattern" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ValidPalindrome" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AddBinary" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LengthofLastWord" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -687,7 +757,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -696,83 +766,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/liu/linkedlist/medium/ReorderList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/linkedlist/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/linkedlist/RandomListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/linkedlist/medium/CopyListwithRandomPointer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/linkedlist/medium/LinkedListCycleII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="58" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/linkedlist/medium/SortedList2BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/linkedlist/easy/ReverseLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/linkedlist/medium/PartitionList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/linkedlist/medium/RemoveDuplicatesfromSortedListII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/linkedlist/medium/AddTwoNumbersII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="65" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/liu/linkedlist/medium/OddEvenLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -963,32 +956,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/regex/Matcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="342" column="0" selection-start-line="342" selection-start-column="0" selection-end-line="342" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/KMP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/ValidPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/ReverseWordsIII.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ReverseWordsIII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
@@ -996,9 +964,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/StudentAttendanceRecordI.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/StudentAttendanceRecordI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="645">
           <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
           <folding />
         </state>
@@ -1008,11 +976,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="4405" column="25" selection-start-line="4405" selection-start-column="25" selection-end-line="4405" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/ReverseStringII.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ReverseStringII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
@@ -1020,45 +987,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/LongestUncommonSubsequenceI.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="480">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="1260" column="12" selection-start-line="1260" selection-start-column="12" selection-end-line="1260" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="1134" column="22" selection-start-line="1134" selection-start-column="22" selection-end-line="1134" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="655" column="22" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="22" />
+        <state relative-caret-position="204">
+          <caret line="2896" column="18" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/RansomNote.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/DetectCapital.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="37" column="95" selection-start-line="37" selection-start-column="95" selection-end-line="37" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/ValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        <state relative-caret-position="350">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ReverseVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ValidPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/AddBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ConstructStringfromBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/CountandSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/DetectCapital.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/GenerateParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/KMP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/LengthofLastWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/LongestUncommonSubsequenceI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/NumberofSegments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/RepeatedSubstringPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
