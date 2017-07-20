@@ -15,31 +15,31 @@ public class KMP{
      */
     public int strStr(String haystack, String needle) {
         //return haystack.indexOf(needle);
-        Pattern pattern = Pattern.compile(needle);
-        Matcher matcher = pattern.matcher(haystack);
-        matcher.find();
-        return matcher.start();
-//        if(needle.length()==0)
-//            return 0;
-//        int[] next = getNext(needle);
-//        int tlen = haystack.length();
-//        int plen = needle.length();
-//        if(tlen<plen)
-//            return -1;
-//        int i=0;
-//        int j=0;
-//        while(i<tlen&&j<plen){
-//            if(j==-1){
-//                i++;
-//                j=0;
-//            }else if(haystack.charAt(i)==needle.charAt(j)){
-//                i++;
-//                j++;
-//            }else {
-//                j=next[j];
-//            }
-//        }
-//        return j==plen?i-j:-1;
+//        Pattern pattern = Pattern.compile(needle);
+//        Matcher matcher = pattern.matcher(haystack);
+//        matcher.find();
+//        return matcher.start();
+        if(needle.length()==0)
+            return 0;
+        int[] next = getNext(needle);
+        int tlen = haystack.length();
+        int plen = needle.length();
+        if(tlen<plen)
+            return -1;
+        int i=0;
+        int j=0;
+        while(i<tlen&&j<plen){
+            if(j==-1){
+                i++;
+                j=0;
+            }else if(haystack.charAt(i)==needle.charAt(j)){
+                i++;
+                j++;
+            }else {
+                j=next[j];
+            }
+        }
+        return j==plen?i-j:-1;
     }
 
     public int[] getNext(String needle) {
