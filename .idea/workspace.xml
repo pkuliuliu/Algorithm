@@ -2,21 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22bcdc45-b864-49c7-a7fe-679bddaf8f50" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/array/easy/BubbleSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/array/easy/HeadSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/array/easy/InsertSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/array/easy/QuickSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/array/easy/SelectionSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/array/medium/Ali01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/hiho/KMP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/hiho/LongestHuiWenSubstring.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/hiho/LongestPath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/hiho/ThirdSplit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/hiho/TrieTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithm/com/liu/array/medium/LongestConsecutiveSequence.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/liu/array/medium/LongestConsecutiveSequence.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithm/com/liu/string/easy/KMP.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/liu/string/easy/KMP.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/array/hard/MaximumAverageSubarray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/array/hard/MedianofTwoSortedArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/didi/Test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/ArithmeticSlices.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/BestTimetoBuyandSellStock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/CanIWin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/ClimbingStairs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/CoinChange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/ContinuousSubarraySum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/CountNumberswithUniqueDigits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/CountingBits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/DecodeWays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/DistinctSubsequences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/FindSubSetSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/FrogJump.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/HouseRobber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/IntegerBreak.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/IsSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/LargestDivisibleSubset.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/LongestIncreasingSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/LongestPalindromicSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/LongestValidParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/MaximalSquare.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/MaximumLengthofPairChain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/MaximumSubarray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/MinimumPathSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/OnesandZeroes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/PalindromicSubstrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/PartitionEqualSubsetSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/PerfectSquares.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/PredicttheWinner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/ShoppingOffers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/TargetSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/Triangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/TwoKeysKeyboard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/UglyNumberII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/UniqueBinarySearchTrees.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/UniqueBinarySearchTreesII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/UniquePaths.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/UniquePathsII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/UniqueSubstringsinWraparoundString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/WiggleSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/dynamicprogramming/WordBreak.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/jingdong/Test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/jingdong/Test02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/meituan/Test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/meituan/Test02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/huawei/BugRecord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/huawei/ConversionOfNumberSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/huawei/DeleteNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/huawei/PlayerCard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/huawei/QiShuiPing.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/huawei/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/huawei/TheMaxScore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/huawei/UniqueChas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/huawei/WenJuan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/netease/BuyApple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/netease/CalcCandy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/netease/DartCharacter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/netease/DengChaShuLie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/netease/DuiQZ.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/netease/DuiQizi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/netease/HuiWenSeq.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/netease/MaxOddDivisor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/netease/NumberReverse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/netease/TiaoShiBan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/newcode/netease/YouYaPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/review/LongestPalindromicSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/review/MultiplyStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/sougou/Test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/tencent/Gift.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/tencent/GrayCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/tencent/InterestingNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/tencent/Palindromic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/tencent/StringMove.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/wangyi/Test02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/liu/wangyi/Test03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/test/Test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/test/Test02.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/liu/array/easy/HeadSort.java" afterPath="$PROJECT_DIR$/src/com/liu/array/easy/HeapSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/liu/string/easy/KMP.java" afterPath="$PROJECT_DIR$/src/com/liu/string/easy/KMP.java" />
     </list>
     <ignored path="Algorithm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,101 +104,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KMP.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/hiho/KMP.java">
+      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
-              <caret line="43" column="26" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestHuiWenSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/hiho/LongestHuiWenSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestPath.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/hiho/LongestPath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThirdSplit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/hiho/ThirdSplit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="73" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HeadSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/HeadSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="181">
               <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/InsertSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/BubbleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SelectionSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/SelectionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestPalindronSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/LongestPalindronSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="966">
-              <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -157,58 +134,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/liu/array/medium/NextPermutation.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/array/medium/ClimbingStairs.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/array/medium/SingleNumber.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/array/medium/SingleNumberII.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/KMP.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/ReverseWordsIII.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/StudentAttendanceRecordI.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/ReverseStringII.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/LongestUncommonSubsequenceI.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/DetectCapital.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/ValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/RepeatedSubstringPattern.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/ConstructStringfromBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/NumberofSegments.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/CountandSay.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/RansomNote.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/ReverseVowels.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/ReverseString.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/LengthofLastWord.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/AddBinary.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/ValidPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/GenerateParentheses.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/easy/NumberofSegments.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/GenerateParentheses.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/DeleteOperationforTwoStrings.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/MultiplyStrings.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/GroupAnagrams.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/NextGreaterElement.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/LinkedStack.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/EvaluateExpress.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/BasicCalculatorII.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/ReverseWords.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/LongestPalindromicSubstring.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/LongestPalindromicSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/LongestPalindronSubstring.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/LongestCommonSubstring.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/array/medium/LongestConsecutiveSequence.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/medium/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/array/medium/Ali01.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/hiho/TrieTree.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/string/easy/KMP.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/hiho/KMP.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/hiho/LongestHuiWenSubstring.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/hiho/LongestPath.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/hiho/ThirdSplit.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/array/easy/HeadSort.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/array/easy/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/array/easy/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/array/easy/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/com/liu/array/easy/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/OnesandZeroes.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/UniqueSubstringsinWraparoundString.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/UniquePaths.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/UniquePathsII.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/MaximalSquare.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/newcode/huawei/TheMaxScore.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/newcode/huawei/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/newcode/huawei/PlayerCard.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/newcode/huawei/BugRecord.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/newcode/huawei/QiShuiPing.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/newcode/huawei/ConversionOfNumberSystem.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/newcode/huawei/WenJuan.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/newcode/huawei/DeleteNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/newcode/huawei/UniqueChas.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/ArithmeticSlices.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/UglyNumberII.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/CanIWin.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/TwoKeysKeyboard.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/PerfectSquares.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/review/MultiplyStrings.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/review/LongestPalindromicSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/newcode/netease/YouYaPoint.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/ali/Test01.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/ali/Test02.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/didi/Test01.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/WiggleSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/LargestDivisibleSubset.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/LongestIncreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/IsSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/CountNumberswithUniqueDigits.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/PartitionEqualSubsetSum.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/CoinChange.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/CountingBits.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/FrogJump.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/LongestValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/dynamicprogramming/DistinctSubsequences.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/tencent/Palindromic.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/tencent/StringMove.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/tencent/InterestingNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/tencent/GrayCode.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/tencent/Gift.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/meituan/Test01.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/meituan/Test02.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/jingdong/Test01.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/jingdong/Test02.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/wangyi/Test03.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/wangyi/Test02.java" />
+        <option value="$PROJECT_DIR$/src/com/test/Test01.java" />
+        <option value="$PROJECT_DIR$/src/com/test/Test02.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/sougou/Test01.java" />
+        <option value="$PROJECT_DIR$/src/com/liu/array/easy/HeapSort.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -242,7 +226,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -275,6 +259,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="liu" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -293,11 +299,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="liu" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hiho" />
+              <option name="myItemId" value="sougou" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -312,6 +322,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -334,6 +348,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -351,28 +369,29 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.liu.string.medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SelectionSort">
-    <configuration default="false" name="HeadSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.HeapSort">
+    <configuration default="false" name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.liu.array.easy.*" />
+          <option name="PATTERN" value="com.liu.jingdong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.array.easy.HeadSort" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.jingdong.Test02" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -385,14 +404,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.liu.array.easy.*" />
+          <option name="PATTERN" value="com.liu.wangyi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.array.easy.QuickSort" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.wangyi.Test03" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -405,14 +424,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.liu.array.easy.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.array.easy.InsertSort" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Test01" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -425,14 +444,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.liu.array.easy.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.array.easy.BubbleSort" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Test02" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -445,14 +464,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.liu.array.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.array.easy.SelectionSort" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.array.easy.HeapSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -653,6 +672,36 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -709,25 +758,48 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HeadSort" />
-      <item index="1" class="java.lang.String" itemvalue="Application.QuickSort" />
-      <item index="2" class="java.lang.String" itemvalue="Application.InsertSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BubbleSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SelectionSort" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test02" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test03" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test01 (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test02 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.HeapSort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SelectionSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BubbleSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.InsertSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.QuickSort" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HeadSort" />
+        <item index="0" class="java.lang.String" itemvalue="Application.HeapSort" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test02 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test01 (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test03" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test02" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -745,13 +817,12 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19246861" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37238494" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -762,6 +833,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -795,8 +867,14 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/LargestDivisibleSubset.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="30" />
+      <option name="time" value="52" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -805,368 +883,410 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ValidParentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/newcode/netease/YouYaPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        <state relative-caret-position="651">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/regex/Matcher.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/review/MultiplyStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="1260" column="12" selection-start-line="1260" selection-start-column="12" selection-end-line="1260" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/regex/Pattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="1134" column="22" selection-start-line="1134" selection-start-column="22" selection-end-line="1134" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/RansomNote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ReverseVowels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ValidPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/AddBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/ConstructStringfromBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/CountandSay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/DetectCapital.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/LengthofLastWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/LongestUncommonSubsequenceI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/RepeatedSubstringPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
+        <state relative-caret-position="609">
           <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/NumberofSegments.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/newcode/huawei/WenJuan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="147">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/AbstractCollection.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/newcode/huawei/QiShuiPing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="340" column="19" selection-start-line="340" selection-start-column="19" selection-end-line="340" selection-end-column="19" />
+        <state relative-caret-position="97">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/HashSet.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/newcode/huawei/PlayerCard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+        <state relative-caret-position="-253">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/Set.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/newcode/huawei/ConversionOfNumberSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="351" column="9" selection-start-line="351" selection-start-column="9" selection-end-line="351" selection-end-column="9" />
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/lang/CharSequence.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/newcode/huawei/BugRecord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        <state relative-caret-position="223">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/MultiplyStrings.java">
+    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="266">
+          <caret line="174" column="15" selection-start-line="174" selection-start-column="15" selection-end-line="174" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/GroupAnagrams.java">
+    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="350">
+          <caret line="477" column="17" selection-start-line="477" selection-start-column="17" selection-end-line="477" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/GenerateParentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/ali/Test01.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/liu/ali/Test02.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/MaximumSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="69" column="5" selection-start-line="50" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
+        <state relative-caret-position="126">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/array/medium/RemoveElement.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/WiggleSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="109">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/array/medium/NextPermutation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/LargestDivisibleSubset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/LinkedStack.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/EvaluateExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="202" column="1" selection-start-line="202" selection-start-column="1" selection-end-line="202" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#297#326#0" expanded="false" />
-            <element signature="e#376#384#0" expanded="false" />
-            <element signature="e#446#454#0" expanded="false" />
-            <element signature="e#3477#3493#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/NextGreaterElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/DeleteOperationforTwoStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/ReverseWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="38" column="79" selection-start-line="38" selection-start-column="79" selection-end-line="38" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/LongestCommonSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/BasicCalculatorII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3738">
-          <caret line="183" column="19" selection-start-line="183" selection-start-column="19" selection-end-line="183" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/array/medium/LongestConsecutiveSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/liu/array/medium/Ali01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="50" column="49" selection-start-line="50" selection-start-column="48" selection-end-line="50" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/hiho/TrieTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="657" column="0" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/easy/KMP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="65" column="48" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/LongestPalindromicSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="144">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/string/medium/LongestPalindronSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/LongestIncreasingSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="144">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/hiho/KMP.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/IsSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="26" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/hiho/LongestHuiWenSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/CountNumberswithUniqueDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/PartitionEqualSubsetSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/didi/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/hiho/LongestPath.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/CoinChange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="417">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/hiho/ThirdSplit.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/CountingBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/FrogJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/LongestValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/dynamicprogramming/DistinctSubsequences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/tencent/Palindromic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/tencent/StringMove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/tencent/InterestingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="60" column="46" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/tencent/GrayCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/tencent/Gift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/meituan/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/meituan/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/jingdong/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/jingdong/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="9" selection-start-line="9" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/wangyi/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/liu/wangyi/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/sougou/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="73" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="73" />
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/BestTimetoBuyandSellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/HeadSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/ArrayPartitionI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        <state relative-caret-position="315">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/QuickSort.java">
+    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="2121">
+          <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#227755#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3370#3371#0" expanded="false" />
+            <element signature="e#3446#3447#0" expanded="false" />
+            <element signature="e#6903#6904#0" expanded="false" />
+            <element signature="e#6974#6975#0" expanded="false" />
+            <element signature="e#8781#8782#0" expanded="false" />
+            <element signature="e#8852#8853#0" expanded="false" />
+            <element signature="e#10659#10660#0" expanded="false" />
+            <element signature="e#10730#10731#0" expanded="false" />
+            <element signature="e#12536#12537#0" expanded="false" />
+            <element signature="e#12595#12596#0" expanded="false" />
+            <element signature="e#14928#14929#0" expanded="false" />
+            <element signature="e#14999#15000#0" expanded="false" />
+            <element signature="e#17889#17890#0" expanded="false" />
+            <element signature="e#17960#17961#0" expanded="false" />
+            <element signature="e#84738#84739#0" expanded="false" />
+            <element signature="e#84795#84796#0" expanded="false" />
+            <element signature="e#88329#88330#0" expanded="false" />
+            <element signature="e#88386#88387#0" expanded="false" />
+            <element signature="e#91921#91922#0" expanded="false" />
+            <element signature="e#91978#91979#0" expanded="false" />
+            <element signature="e#95523#95524#0" expanded="false" />
+            <element signature="e#95580#95581#0" expanded="false" />
+            <element signature="e#99118#99119#0" expanded="false" />
+            <element signature="e#99175#99176#0" expanded="false" />
+            <element signature="e#102793#102794#0" expanded="false" />
+            <element signature="e#102850#102851#0" expanded="false" />
+            <element signature="e#107069#107070#0" expanded="false" />
+            <element signature="e#107126#107127#0" expanded="false" />
+            <element signature="e#111724#111725#0" expanded="false" />
+            <element signature="e#111781#111782#0" expanded="false" />
+            <element signature="e#177013#177014#0" expanded="false" />
+            <element signature="e#177054#177055#0" expanded="false" />
+            <element signature="e#177353#177354#0" expanded="false" />
+            <element signature="e#177410#177411#0" expanded="false" />
+            <element signature="e#177457#177458#0" expanded="false" />
+            <element signature="e#177496#177497#0" expanded="false" />
+            <element signature="e#177551#177552#0" expanded="false" />
+            <element signature="e#177591#177592#0" expanded="false" />
+            <element signature="e#178082#178083#0" expanded="false" />
+            <element signature="e#178121#178122#0" expanded="false" />
+            <element signature="e#178785#178786#0" expanded="false" />
+            <element signature="e#178832#178833#0" expanded="false" />
+            <element signature="e#178897#178898#0" expanded="false" />
+            <element signature="e#178976#178977#0" expanded="false" />
+            <element signature="e#179525#179526#0" expanded="false" />
+            <element signature="e#179566#179567#0" expanded="false" />
+            <element signature="e#223144#223145#0" expanded="false" />
+            <element signature="e#223197#223198#0" expanded="false" />
+            <element signature="e#224394#224395#0" expanded="false" />
+            <element signature="e#224447#224448#0" expanded="false" />
+            <element signature="e#225606#225607#0" expanded="false" />
+            <element signature="e#225659#225660#0" expanded="false" />
+            <element signature="e#226830#226831#0" expanded="false" />
+            <element signature="e#226883#226884#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/MajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/CanPlaceFlowers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/MaxConsecutiveOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="54" selection-start-line="7" selection-start-column="7" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/MaximumDistanceinArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/MaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        <state relative-caret-position="21">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/BubbleSort.java">
+    <entry file="jar:///usr/jdk1.8.0_101/src.zip!/java/util/DualPivotQuicksort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="168">
+          <caret line="95" column="7" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liu/array/easy/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        <state relative-caret-position="181">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
           <folding />
         </state>
       </provider>

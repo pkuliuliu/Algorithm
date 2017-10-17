@@ -6,7 +6,7 @@ import java.util.Arrays;
 /**
  * Created by liu on 17-7-20.
  */
-public class HeadSort {
+public class HeapSort {
     public void sort(int[] nums){
         int idx = nums.length-1;
         initHeap(nums);
@@ -45,7 +45,7 @@ public class HeadSort {
     }
 
     public static void main(String[] args) {
-        HeadSort headSort = new HeadSort();
+        HeapSort headSort = new HeapSort();
         int[] nums = new int[]{1,3,2,5,4,7,6,9,8,0};
         headSort.sort(nums);
         System.out.println(Arrays.toString(nums));
